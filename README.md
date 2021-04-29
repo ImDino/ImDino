@@ -1,7 +1,7 @@
 ## Hi, I'm Dino!
 
-- 👨‍🎓 Studying full stack webdevelopment @Nackademin (Stockholm)
-- ❤ Clean code
+- 👨‍🎓 Studying Full Stack Web Development @Nackademin (Stockholm)
+- ❤ Clean Code
 
 ### Other Hobbies:
 
