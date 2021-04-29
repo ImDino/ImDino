@@ -1,4 +1,12 @@
-## Testing
+## Hi, I'm Dino!
+
+- 👨‍🎓 Studying full stack webdevelopment @Nackademin (Stockholm)
+- ❤ Clean code
+
+### Other Hobbies:
+
+- 🎧 Sound enthusiast, my music: https://soundcloud.com/dno87music/tracks
+- 🎮 Rocket League, my clips: https://www.youtube.com/channel/UClq4Us5OHpRJgheuJ0I48TA
 
 ### Languages and Tools:
 
