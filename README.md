@@ -20,6 +20,8 @@
     <img alt="NodeJS" width="10%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
     <img alt="fakemargin" width="6%" src="logos/blank.png" />
     <img alt="HTML5" width="10%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+    <img alt="fakemargin" width="6%" src="logos/blank.png" />
+    <img alt="PHP" width="10%" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
 </p>
 <p align="center" width="100%">
     <img alt="Bootstrap" width="10%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
@@ -31,4 +33,6 @@
     <img alt="Git" width="10%" src="logos/git.png" />
     <img alt="fakemargin" width="6%" src="logos/blank.png" />
     <img alt="MongoDB" width="10%" src="logos/mongodb.png" />
+    <img alt="fakemargin" width="6%" src="logos/blank.png" />
+    <img alt="Docker" width="10%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 </p>
