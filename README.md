@@ -8,10 +8,10 @@
 - 🎧 Sound enthusiast, my music: https://soundcloud.com/dno87music/tracks
 - 🎮 Rocket League
 
-### Languages and Tools:
+### Languages, frameworks and tools:
 
 <p align="center" width="100%">
-    <img alt="vscode" width="9%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+    <img alt="Vue" width="9%" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png](https://cdn-contents.anymindgroup.com/corporate/wp-uploads/2021/10/19091804/logo-2.png)" />
     <img alt="fakemargin" width="6%" src="logos/blank.png" />
     <img alt="JS" width="9%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
     <img alt="fakemargin" width="6%" src="logos/blank.png" />
