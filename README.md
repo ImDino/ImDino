@@ -6,7 +6,7 @@
 ### Other Hobbies:
 
 - 🎧 Sound enthusiast, my music: https://soundcloud.com/dno87music/tracks
-- 🎮 Rocket League, my clips: https://www.youtube.com/channel/UClq4Us5OHpRJgheuJ0I48TA
+- 🎮 Rocket League
 
 ### Languages and Tools:
 
